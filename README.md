@@ -1,5 +1,7 @@
 # Mind The Game - Podcast Q&A
 
+> Final project for the [DataTalks.Club LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp).
+
 This project creates a Retrieval-Augmented Generation (RAG) flow for a Q&A application based on transcripts from the *Mind The Game* podcast, a popular basketball podcast featuring NBA legend **LeBron James** and his former teammate-turned-coach, **JJ Redick**. In this unique show, the two discuss the ins and outs of basketball, often over a glass of wine, sharing insights into the game, leadership, and their personal journeys.
 
 LeBron, known as one of the greatest basketball players of all time, now plays under JJ Redick’s coaching on the Los Angeles Lakers. Their candid conversations provide an in-depth look at the NBA world from the perspective of a player and a coach, making it a treasure trove for fans who want to learn more about basketball strategies, player dynamics, and the culture surrounding the sport.
